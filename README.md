@@ -1,8 +1,7 @@
 # Graph Machine Learning for Email Classification
 # E-posta Sınıflandırması için Graph Machine Learning
 
- [![Open In Colab](https://colab.research.google.com/drive/1fY36YIeVaZjYUskIOWqFoEbTj92MRur6?usp=sharing)
-
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fY36YIeVaZjYUskIOWqFoEbTj92MRur6)
 ---
 
 ## English
